@@ -6,6 +6,12 @@
   "author": "cokia <hwymaster01@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-airbnb": "^18.2.0"
+    "eslint-config-airbnb": "^18.2.0",
+    "socket.io": "^2.3.0",
+    "typescript": "^4.0.2"
+  },
+  "devDependencies": {
+    "@types/socket.io": "^2.1.11",
+    "@typescript-eslint/parser": "^4.1.1"
   }
 }
