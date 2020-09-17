@@ -1,0 +1,11 @@
+{
+  "name": "bscscan-telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cokia/bscscan-telegram-bot",
+  "author": "cokia <hwymaster01@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb": "^18.2.0"
+  }
+}
